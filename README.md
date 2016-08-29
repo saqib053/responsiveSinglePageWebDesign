@@ -1,2 +1,2 @@
 # responsiveSinglePageWebDesign
-Double click to run the "index.html" file to open the website in the browser
+Just open the "index.html" file to run the app in the browser
